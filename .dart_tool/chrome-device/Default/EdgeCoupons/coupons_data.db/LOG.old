@@ -1,0 +1,15 @@
+2026/07/08-18:41:04.809 22dc Reusing MANIFEST C:\Users\Delafor\AppData\Local\Temp\flutter_tools.4461e8fc\flutter_tools_chrome_device.d3f0f511\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/07/08-18:41:04.811 22dc Recovering log #19
+2026/07/08-18:41:04.811 22dc Reusing old log C:\Users\Delafor\AppData\Local\Temp\flutter_tools.4461e8fc\flutter_tools_chrome_device.d3f0f511\Default\EdgeCoupons/coupons_data.db/000019.log 
+2026/07/08-18:41:04.812 22dc Delete type=0 #4
+2026/07/08-18:41:04.812 22dc Delete type=0 #7
+2026/07/08-18:41:04.812 22dc Delete type=2 #8
+2026/07/08-18:41:04.813 22dc Delete type=0 #10
+2026/07/08-18:41:04.813 22dc Delete type=2 #11
+2026/07/08-18:41:04.813 22dc Delete type=0 #13
+2026/07/08-18:41:04.813 22dc Delete type=2 #14
+2026/07/08-18:41:04.875 22dc Delete type=0 #16
+2026/07/08-18:41:04.896 22dc Delete type=2 #17
+2026/07/08-18:41:07.880 2cbc Level-0 table #24: started
+2026/07/08-18:41:07.885 2cbc Level-0 table #24: 683004 bytes OK
+2026/07/08-18:41:07.885 2cbc Delete type=0 #19
