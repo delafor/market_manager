@@ -1,15 +1,41 @@
-2026/07/08-18:41:04.809 22dc Reusing MANIFEST C:\Users\Delafor\AppData\Local\Temp\flutter_tools.4461e8fc\flutter_tools_chrome_device.d3f0f511\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
-2026/07/08-18:41:04.811 22dc Recovering log #19
-2026/07/08-18:41:04.811 22dc Reusing old log C:\Users\Delafor\AppData\Local\Temp\flutter_tools.4461e8fc\flutter_tools_chrome_device.d3f0f511\Default\EdgeCoupons/coupons_data.db/000019.log 
-2026/07/08-18:41:04.812 22dc Delete type=0 #4
-2026/07/08-18:41:04.812 22dc Delete type=0 #7
-2026/07/08-18:41:04.812 22dc Delete type=2 #8
-2026/07/08-18:41:04.813 22dc Delete type=0 #10
-2026/07/08-18:41:04.813 22dc Delete type=2 #11
-2026/07/08-18:41:04.813 22dc Delete type=0 #13
-2026/07/08-18:41:04.813 22dc Delete type=2 #14
-2026/07/08-18:41:04.875 22dc Delete type=0 #16
-2026/07/08-18:41:04.896 22dc Delete type=2 #17
-2026/07/08-18:41:07.880 2cbc Level-0 table #24: started
-2026/07/08-18:41:07.885 2cbc Level-0 table #24: 683004 bytes OK
-2026/07/08-18:41:07.885 2cbc Delete type=0 #19
+2026/07/14-11:10:54.918 3dac Reusing MANIFEST C:\Users\Delafor\AppData\Local\Temp\flutter_tools.8baeef14\flutter_tools_chrome_device.7ff7e2cb\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/07/14-11:10:54.919 3dac Recovering log #65
+2026/07/14-11:10:54.920 3dac Reusing old log C:\Users\Delafor\AppData\Local\Temp\flutter_tools.8baeef14\flutter_tools_chrome_device.7ff7e2cb\Default\EdgeCoupons/coupons_data.db/000065.log 
+2026/07/14-11:10:54.920 3dac Delete type=0 #4
+2026/07/14-11:10:54.921 3dac Delete type=0 #7
+2026/07/14-11:10:54.921 3dac Delete type=2 #8
+2026/07/14-11:10:54.921 3dac Delete type=0 #10
+2026/07/14-11:10:54.921 3dac Delete type=2 #11
+2026/07/14-11:10:54.921 3dac Delete type=0 #13
+2026/07/14-11:10:54.921 3dac Delete type=2 #14
+2026/07/14-11:10:54.933 3dac Delete type=0 #16
+2026/07/14-11:10:54.933 3dac Delete type=2 #17
+2026/07/14-11:10:54.933 3dac Delete type=0 #19
+2026/07/14-11:10:54.934 3dac Delete type=2 #21
+2026/07/14-11:10:54.935 3dac Delete type=0 #23
+2026/07/14-11:10:54.935 3dac Delete type=2 #24
+2026/07/14-11:10:54.935 3dac Delete type=0 #26
+2026/07/14-11:10:54.936 3dac Delete type=2 #27
+2026/07/14-11:10:54.936 3dac Delete type=0 #29
+2026/07/14-11:10:54.936 3dac Delete type=2 #30
+2026/07/14-11:10:54.936 3dac Delete type=0 #32
+2026/07/14-11:10:54.936 3dac Delete type=2 #34
+2026/07/14-11:10:54.936 3dac Delete type=0 #36
+2026/07/14-11:10:54.936 3dac Delete type=2 #37
+2026/07/14-11:10:54.937 3dac Delete type=0 #39
+2026/07/14-11:10:54.937 3dac Delete type=2 #40
+2026/07/14-11:10:54.937 3dac Delete type=0 #42
+2026/07/14-11:10:54.937 3dac Delete type=2 #43
+2026/07/14-11:10:54.963 3dac Delete type=0 #45
+2026/07/14-11:10:54.963 3dac Delete type=2 #47
+2026/07/14-11:10:54.964 3dac Delete type=0 #49
+2026/07/14-11:10:54.964 3dac Delete type=2 #50
+2026/07/14-11:10:54.964 3dac Delete type=0 #52
+2026/07/14-11:10:54.965 3dac Delete type=2 #53
+2026/07/14-11:10:54.965 3dac Delete type=0 #55
+2026/07/14-11:10:54.966 3dac Delete type=2 #56
+2026/07/14-11:10:54.966 3dac Delete type=0 #58
+2026/07/14-11:10:54.967 3dac Delete type=0 #62
+2026/07/14-11:11:09.731 2908 Level-0 table #69: started
+2026/07/14-11:11:09.735 2908 Level-0 table #69: 683012 bytes OK
+2026/07/14-11:11:09.737 2908 Delete type=0 #65
