@@ -1,16 +1,28 @@
 import 'package:flutter/material.dart';
 import 'package:market_manager/app/pages/home/components/app_cardgroceries.dart';
+import 'package:market_manager/app/shared/widgets/app_bottom_navigator.dart';
 import 'package:market_manager/app/shared/widgets/app_cardproduct.dart';
 import 'package:market_manager/app/shared/widgets/app_search_bar.dart';
+import 'package:market_manager/app/core/constants/constants.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
+
+  static const _routes = [
+    Kpages.home,
+    // Kpages.shop,
+    // Kpages.explore,
+    // Kpages.cart,
+    // Kpages.favorite,
+    // Kpages.account,
+  ];
 
   @override
   State<HomePage> createState() => _HomePageState();
 }
 
 class _HomePageState extends State<HomePage> {
+  int _currentIndex = 0;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -153,34 +165,16 @@ class _HomePageState extends State<HomePage> {
           ),
         ),
       ),
-      bottomNavigationBar: BottomNavigationBar(
-        type: BottomNavigationBarType.fixed,
-        currentIndex: 0,
-        onTap: (index) {},
-
-        items: const [
-          BottomNavigationBarItem(
-            icon: Icon(Icons.storefront_outlined),
-            label: 'Shop',
-          ),
-          BottomNavigationBarItem(
-            icon: Icon(Icons.manage_search_outlined),
-            label: 'Explore',
-          ),
-          BottomNavigationBarItem(
-            icon: Icon(Icons.shopping_cart_outlined),
-            label: 'Cart',
-          ),
-          BottomNavigationBarItem(
-            icon: Icon(Icons.favorite_border),
-            label: 'Favoruit',
-          ),
-
-          BottomNavigationBarItem(
-            icon: Icon(Icons.account_circle_outlined),
-            label: 'Account',
-          ),
-        ],
+      bottomNavigationBar: AppBottomNavigation(
+        currentIndex: _currentIndex,
+        onTap: (index) {
+          if (index == _currentIndex) return;
+          Navigator.pushReplacementNamed(
+            context,
+            HomePage._routes[index].route,
+          );
+          //navegacao aqui
+        },
       ),
     );
   }

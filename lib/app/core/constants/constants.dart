@@ -1,7 +1,8 @@
 enum Kpages {
   home,
   login,
-  register, welcome,
+  register,
+  welcome,
 
 }
 
