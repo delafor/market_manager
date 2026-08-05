@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:market_manager/app/shared/widgets/app_addbutton.dart';
+import 'package:market_manager/app/pages/home/components/app_cardproducts.dart';
+import 'package:market_manager/app/pages/home/components/app_increment_counter.dart';
+import 'package:market_manager/app/shared/widgets/app_counter.dart';
 
 class AppCardproduct extends StatefulWidget {
   const AppCardproduct({super.key});
@@ -22,12 +24,30 @@ class _AppCardproductState extends State<AppCardproduct> {
             children: [
               Align(
                 alignment: Alignment.center,
-                child: Image.asset(
-                  'lib/app/pages/home/assets/estoico.jpg',
-                  height: 90,
-                  width: double.infinity,
+                child: GestureDetector(
+                  onTap: () {
+                    showModalBottomSheet(
+                      context: context,
+                      isScrollControlled: true,
+                      backgroundColor: Colors.transparent,
 
-                  fit: BoxFit.contain,
+                      builder: (context) {
+                        return FractionallySizedBox(
+                          heightFactor: 1,
+
+                          child: const AppProductsPage(),
+                        );
+                      },
+                    );
+                  },
+
+                  child: Image.asset(
+                    'lib/app/pages/home/assets/estoico.jpg',
+                    height: 90,
+                    width: double.infinity,
+
+                    fit: BoxFit.contain,
+                  ),
                 ),
               ),
               const SizedBox(height: 16),
@@ -51,7 +71,7 @@ class _AppCardproductState extends State<AppCardproduct> {
                     '\$4.99',
                     style: Theme.of(context).textTheme.titleMedium,
                   ),
-                  AddButton(),
+                  AppIncrementCounter(),
                 ],
               ),
             ],

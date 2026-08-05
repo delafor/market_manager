@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:market_manager/app/pages/home/components/app_cardgroceries.dart';
 import 'package:market_manager/app/shared/widgets/app_bottom_navigator.dart';
-import 'package:market_manager/app/shared/widgets/app_cardproduct.dart';
-import 'package:market_manager/app/shared/widgets/app_search_bar.dart';
+import 'package:market_manager/app/pages/home/components/app_cardproduct.dart';
+import 'package:market_manager/app/pages/home/components/app_search_bar.dart';
 import 'package:market_manager/app/core/constants/constants.dart';
 
 class HomePage extends StatefulWidget {

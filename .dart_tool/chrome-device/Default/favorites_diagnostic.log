@@ -1,105 +1,123 @@
-2026-07-01 23:00:51.553: [INFO] VisibilityChanged: 0
-2026-07-01 23:00:51.612: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-01 23:00:51.615: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-01 23:00:51.618: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-01 23:00:51.621: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-01 23:00:51.623: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-01 23:00:51.625: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-01 23:00:51.628: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-01 23:00:51.630: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-01 23:00:51.632: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-01 23:00:51.634: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-01 23:00:51.636: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-01 23:00:51.660: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-01 23:00:51.660: [INFO] OnDoneLoading sync enabled: 0
-2026-07-01 23:00:51.666: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-04 23:53:22.040: [INFO] VisibilityChanged: 0
-2026-07-04 23:53:22.083: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-04 23:53:22.083: [INFO] OnDoneLoading sync enabled: 0
-2026-07-04 23:53:22.087: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-05 00:03:21.663: [INFO] VisibilityChanged: 0
-2026-07-05 00:03:21.696: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-05 00:03:21.696: [INFO] OnDoneLoading sync enabled: 0
-2026-07-05 00:03:21.699: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-06 00:53:10.200: [INFO] VisibilityChanged: 0
-2026-07-06 00:53:10.244: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-06 00:53:10.244: [INFO] OnDoneLoading sync enabled: 0
-2026-07-06 00:53:10.249: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-07 00:39:49.913: [INFO] VisibilityChanged: 0
-2026-07-07 00:39:49.967: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-07 00:39:49.967: [INFO] OnDoneLoading sync enabled: 0
-2026-07-07 00:39:49.969: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-07 23:59:23.873: [INFO] VisibilityChanged: 0
-2026-07-07 23:59:23.913: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-07 23:59:23.914: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-07 23:59:23.914: [INFO] OnDoneLoading sync enabled: 0
-2026-07-08 21:40:59.059: [INFO] VisibilityChanged: 0
-2026-07-08 21:40:59.096: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-08 21:40:59.096: [INFO] OnDoneLoading sync enabled: 0
-2026-07-08 21:40:59.097: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-08 23:16:40.246: [INFO] VisibilityChanged: 0
-2026-07-08 23:16:40.290: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-08 23:16:40.290: [INFO] OnDoneLoading sync enabled: 0
-2026-07-08 23:16:40.293: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-09 02:06:51.037: [INFO] VisibilityChanged: 0
-2026-07-09 02:06:51.086: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-09 02:06:51.086: [INFO] OnDoneLoading sync enabled: 0
-2026-07-09 02:06:51.089: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-09 16:40:54.390: [INFO] VisibilityChanged: 0
-2026-07-09 16:40:54.435: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-09 16:40:54.435: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-09 16:40:54.435: [INFO] OnDoneLoading sync enabled: 0
-2026-07-10 01:16:40.340: [INFO] VisibilityChanged: 0
-2026-07-10 01:16:40.382: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-10 01:16:40.382: [INFO] OnDoneLoading sync enabled: 0
-2026-07-10 01:16:40.384: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-12 21:07:14.402: [INFO] VisibilityChanged: 0
-2026-07-12 21:07:14.440: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-12 21:07:14.440: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-12 21:07:14.441: [INFO] OnDoneLoading sync enabled: 0
-2026-07-12 22:38:31.985: [INFO] VisibilityChanged: 0
-2026-07-12 22:38:32.040: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-12 22:38:32.040: [INFO] OnDoneLoading sync enabled: 0
-2026-07-12 22:38:32.043: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-13 00:23:42.479: [INFO] VisibilityChanged: 0
-2026-07-13 00:23:42.537: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-13 00:23:42.537: [INFO] OnDoneLoading sync enabled: 0
-2026-07-13 00:23:42.539: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-13 16:03:59.250: [INFO] VisibilityChanged: 0
-2026-07-13 16:03:59.300: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-13 16:03:59.301: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-13 16:03:59.301: [INFO] OnDoneLoading sync enabled: 0
-2026-07-14 00:21:57.988: [INFO] VisibilityChanged: 0
-2026-07-14 00:21:58.042: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-14 00:21:58.043: [INFO] OnDoneLoading sync enabled: 0
-2026-07-14 00:21:58.047: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-14 01:18:26.571: [INFO] VisibilityChanged: 0
-2026-07-14 01:18:26.638: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-14 01:18:26.638: [INFO] OnDoneLoading sync enabled: 0
-2026-07-14 01:18:26.644: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-14 10:43:06.787: [INFO] VisibilityChanged: 0
-2026-07-14 10:43:06.841: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-14 10:43:06.841: [INFO] OnDoneLoading sync enabled: 0
-2026-07-14 10:43:06.844: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-14 12:57:48.270: [INFO] VisibilityChanged: 0
-2026-07-14 12:57:48.340: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-14 12:57:48.341: [INFO] OnDoneLoading sync enabled: 0
-2026-07-14 12:57:48.343: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-14 13:00:34.535: [INFO] VisibilityChanged: 0
-2026-07-14 13:00:34.589: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-14 13:00:34.590: [INFO] OnDoneLoading sync enabled: 0
-2026-07-14 13:00:34.591: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-14 14:10:52.490: [INFO] VisibilityChanged: 0
-2026-07-14 14:10:52.561: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-14 14:10:52.567: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-14 14:10:52.567: [INFO] OnDoneLoading sync enabled: 0
-2026-07-14 15:01:54.247: [INFO] VisibilityChanged: 1
-2026-07-14 15:01:56.544: [INFO] VisibilityChanged: 0
-2026-07-15 19:30:49.901: [INFO] VisibilityChanged: 0
-2026-07-15 19:30:49.946: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-15 19:30:49.946: [INFO] OnDoneLoading sync enabled: 0
-2026-07-15 19:30:49.948: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
-2026-07-15 22:33:59.489: [INFO] VisibilityChanged: 0
-2026-07-15 22:33:59.552: [INFO] BookmarkModelLoaded, ids_reassigned: 0
-2026-07-15 22:33:59.552: [INFO] OnDoneLoading sync enabled: 0
-2026-07-15 22:33:59.554: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-07-22 22:35:33.617: [INFO] VisibilityChanged: 0
+2026-07-22 22:35:33.663: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-07-22 22:35:33.664: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-07-22 22:35:33.666: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-07-22 22:35:33.667: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-07-22 22:35:33.668: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-07-22 22:35:33.670: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-07-22 22:35:33.671: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-07-22 22:35:33.672: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-07-22 22:35:33.673: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-07-22 22:35:33.674: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-07-22 22:35:33.691: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-07-22 22:35:33.691: [INFO] OnDoneLoading sync enabled: 0
+2026-07-22 22:35:33.751: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-07-22 22:35:35.993: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-07-22 22:35:36.005: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-07-22 22:35:36.012: [INFO] Primary account changed.
+2026-07-22 22:35:36.012: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-07-22 22:35:36.021: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-07-22 22:35:36.048: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-07-22 22:35:39.738: [INFO] Sync initialization duration: 3513ms
+2026-07-23 18:23:56.044: [INFO] VisibilityChanged: 0
+2026-07-23 18:23:56.074: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-07-23 18:23:56.074: [INFO] OnDoneLoading sync enabled: 1
+2026-07-23 18:24:05.203: [INFO] Sync initialization duration: 1792ms
+2026-07-23 19:07:22.184: [INFO] VisibilityChanged: 0
+2026-07-23 19:07:22.215: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-07-23 19:07:22.215: [INFO] OnDoneLoading sync enabled: 0
+2026-07-23 19:07:36.841: [INFO] Primary account changed.
+2026-07-23 19:07:36.841: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-07-23 19:07:41.004: [INFO] Sync initialization duration: 18729ms
+2026-07-26 23:44:22.057: [INFO] VisibilityChanged: 0
+2026-07-26 23:44:22.115: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-07-26 23:44:22.115: [INFO] OnDoneLoading sync enabled: 1
+2026-07-26 23:44:33.367: [INFO] Sync initialization duration: 1851ms
+2026-07-29 19:58:35.047: [INFO] VisibilityChanged: 0
+2026-07-29 19:58:35.089: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-07-29 19:58:35.089: [INFO] OnDoneLoading sync enabled: 0
+2026-07-29 19:58:40.152: [INFO] Primary account changed.
+2026-07-29 19:58:40.152: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-07-29 19:58:46.040: [INFO] Sync initialization duration: 10949ms
+2026-07-29 20:44:29.854: [INFO] VisibilityChanged: 0
+2026-07-29 20:44:29.901: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-07-29 20:44:29.901: [INFO] OnDoneLoading sync enabled: 1
+2026-07-29 20:44:40.158: [INFO] Sync initialization duration: 1815ms
+2026-07-30 01:04:30.236: [INFO] VisibilityChanged: 0
+2026-07-30 01:04:30.288: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-07-30 01:04:30.288: [INFO] OnDoneLoading sync enabled: 0
+2026-07-30 01:04:33.363: [INFO] Primary account changed.
+2026-07-30 01:04:33.363: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-07-30 01:04:37.018: [INFO] Sync initialization duration: 6710ms
+2026-07-30 20:28:59.045: [INFO] VisibilityChanged: 0
+2026-07-30 20:28:59.108: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-07-30 20:28:59.108: [INFO] OnDoneLoading sync enabled: 1
+2026-07-30 20:29:10.127: [INFO] Sync initialization duration: 1741ms
+2026-07-30 20:32:14.705: [INFO] VisibilityChanged: 0
+2026-07-30 20:32:14.762: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-07-30 20:32:14.762: [INFO] OnDoneLoading sync enabled: 0
+2026-07-30 20:32:17.563: [INFO] Primary account changed.
+2026-07-30 20:32:17.563: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-07-30 20:32:21.485: [INFO] Sync initialization duration: 6721ms
+2026-08-01 23:34:05.646: [INFO] VisibilityChanged: 0
+2026-08-01 23:34:05.696: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-01 23:34:05.696: [INFO] OnDoneLoading sync enabled: 1
+2026-08-01 23:34:15.087: [INFO] Sync initialization duration: 1770ms
+2026-08-04 02:08:30.812: [INFO] CurrentProfilePath: C:\Users\Delafor\AppData\Local\Temp\flutter_tools.f5d5a2ff\flutter_tools_chrome_device.9b17c125\Default
+2026-08-04 02:08:30.812: [INFO] Profiles total count: 1
+2026-08-04 02:08:30.812: [INFO] Profile: name=Perfil 1 path=C:\Users\Delafor\AppData\Local\Temp\flutter_tools.f5d5a2ff\flutter_tools_chrome_device.9b17c125\Default lastActive=null
+2026-08-04 02:08:30.812: [INFO] LastUsedProfileDir: C:\Users\Delafor\AppData\Local\Temp\flutter_tools.f5d5a2ff\flutter_tools_chrome_device.9b17c125\Default
+2026-08-04 02:08:30.812: [INFO] VisibilityChanged: 0
+2026-08-04 02:08:30.859: [INFO] OnDoneLoading sync enabled: 0
+2026-08-04 02:08:30.859: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-04 02:08:30.859: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-04 02:08:30.859: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-04 02:08:33.227: [INFO] Primary account changed.
+2026-08-04 02:08:33.227: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-08-04 02:08:38.788: [INFO] Sync initialization duration: 7925ms
+2026-08-04 02:12:24.215: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-04 15:24:02.083: [INFO] CurrentProfilePath: C:\Users\Delafor\AppData\Local\Temp\flutter_tools.25c30957\flutter_tools_chrome_device.fea05c82\Default
+2026-08-04 15:24:02.083: [INFO] Profiles total count: 1
+2026-08-04 15:24:02.083: [INFO] Profile: name=Perfil 1 path=C:\Users\Delafor\AppData\Local\Temp\flutter_tools.25c30957\flutter_tools_chrome_device.fea05c82\Default lastActive=null
+2026-08-04 15:24:02.083: [INFO] LastUsedProfileDir: C:\Users\Delafor\AppData\Local\Temp\flutter_tools.25c30957\flutter_tools_chrome_device.fea05c82\Default
+2026-08-04 15:24:02.083: [INFO] VisibilityChanged: 0
+2026-08-04 15:24:02.125: [INFO] OnDoneLoading sync enabled: 1
+2026-08-04 15:24:02.125: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-04 15:24:02.125: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-04 15:24:02.125: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-04 15:24:11.622: [INFO] Sync initialization duration: 1803ms
+2026-08-04 20:01:09.938: [INFO] CurrentProfilePath: C:\Users\Delafor\AppData\Local\Temp\flutter_tools.e91ed004\flutter_tools_chrome_device.818365a1\Default
+2026-08-04 20:01:09.938: [INFO] Profiles total count: 1
+2026-08-04 20:01:09.938: [INFO] Profile: name=Perfil 1 path=C:\Users\Delafor\AppData\Local\Temp\flutter_tools.e91ed004\flutter_tools_chrome_device.818365a1\Default lastActive=null
+2026-08-04 20:01:09.938: [INFO] LastUsedProfileDir: C:\Users\Delafor\AppData\Local\Temp\flutter_tools.e91ed004\flutter_tools_chrome_device.818365a1\Default
+2026-08-04 20:01:09.938: [INFO] VisibilityChanged: 0
+2026-08-04 20:01:10.033: [INFO] OnDoneLoading sync enabled: 0
+2026-08-04 20:01:10.033: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-04 20:01:10.033: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-04 20:01:10.033: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-04 20:01:12.673: [INFO] Primary account changed.
+2026-08-04 20:01:12.673: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-08-04 20:01:16.456: [INFO] Sync initialization duration: 6420ms
+2026-08-04 20:29:18.717: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-04 20:29:49.712: [INFO] CurrentProfilePath: C:\Users\Delafor\AppData\Local\Temp\flutter_tools.469864f5\flutter_tools_chrome_device.e647671f\Default
+2026-08-04 20:29:49.712: [INFO] Profiles total count: 1
+2026-08-04 20:29:49.712: [INFO] Profile: name=Perfil 1 path=C:\Users\Delafor\AppData\Local\Temp\flutter_tools.469864f5\flutter_tools_chrome_device.e647671f\Default lastActive=null
+2026-08-04 20:29:49.712: [INFO] LastUsedProfileDir: C:\Users\Delafor\AppData\Local\Temp\flutter_tools.469864f5\flutter_tools_chrome_device.e647671f\Default
+2026-08-04 20:29:49.712: [INFO] VisibilityChanged: 0
+2026-08-04 20:29:49.812: [INFO] OnDoneLoading sync enabled: 1
+2026-08-04 20:29:49.812: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-04 20:29:49.812: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-04 20:29:49.812: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-04 20:29:58.006: [INFO] Sync initialization duration: 1734ms
+2026-08-05 15:33:02.115: [INFO] CurrentProfilePath: C:\Users\Delafor\AppData\Local\Temp\flutter_tools.943984fd\flutter_tools_chrome_device.39ead8c9\Default
+2026-08-05 15:33:02.115: [INFO] Profiles total count: 1
+2026-08-05 15:33:02.115: [INFO] Profile: name=Perfil 1 path=C:\Users\Delafor\AppData\Local\Temp\flutter_tools.943984fd\flutter_tools_chrome_device.39ead8c9\Default lastActive=null
+2026-08-05 15:33:02.115: [INFO] LastUsedProfileDir: C:\Users\Delafor\AppData\Local\Temp\flutter_tools.943984fd\flutter_tools_chrome_device.39ead8c9\Default
+2026-08-05 15:33:02.115: [INFO] VisibilityChanged: 0
+2026-08-05 15:33:02.171: [INFO] OnDoneLoading sync enabled: 0
+2026-08-05 15:33:02.171: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-05 15:33:02.171: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-05 15:33:02.171: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-05 15:33:07.411: [INFO] Primary account changed.
+2026-08-05 15:33:07.411: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-08-05 15:33:13.328: [INFO] Sync initialization duration: 11156ms

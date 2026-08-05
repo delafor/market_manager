@@ -13,6 +13,7 @@ class _AppWidgetState extends State<AppWidget> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp.router(
+      debugShowCheckedModeBanner: false,
       title: 'Market Manager',
       routerConfig: router,
       theme: AppTheme.lightTheme,

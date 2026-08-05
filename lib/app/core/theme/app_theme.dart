@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 
 class AppTheme {
   static ThemeData get lightTheme => ThemeData(
@@ -43,7 +42,7 @@ class AppTheme {
         color: Color(0xff181819),
       ),
       bodyMedium: TextStyle(
-        fontSize: 12,
+        fontSize: 15,
         fontWeight: FontWeight.w400,
         color: Color(0xff7c7c7c),
       ),
@@ -101,4 +100,16 @@ const BoxDecoration groceriesContainer = BoxDecoration(
   boxShadow: [
     BoxShadow(color: Colors.black12, blurRadius: 10, offset: Offset(0, 4)),
   ],
+);
+
+const ButtonStyle buttonsLarge = ButtonStyle(
+  backgroundColor: WidgetStatePropertyAll(Color(0xff53b175)),
+  foregroundColor: WidgetStatePropertyAll(Colors.white),
+  elevation: WidgetStatePropertyAll(0),
+  padding: WidgetStatePropertyAll(
+    EdgeInsets.symmetric(horizontal: 125, vertical: 25),
+  ),
+  shape: WidgetStatePropertyAll(
+    RoundedRectangleBorder(borderRadius: BorderRadius.all(Radius.circular(14))),
+  ),
 );

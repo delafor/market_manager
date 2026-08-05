@@ -33,12 +33,11 @@ dependencies:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^1.0.8
+  cupertino_icons: ^1.0.9
   go_router: ^17.3.0
   riverpod: ^3.3.2
   flutter_riverpod: ^3.3.2
   font_awesome_flutter: ^11.0.0
-  google_fonts: ^8.1.0
 
 dev_dependencies:
   flutter_test:
@@ -65,13 +64,13 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-  
-  
     - lib/app/pages/home/assets/estoico.jpg
     - lib/app/pages/home/assets/image4.png
     - lib/app/pages/home/assets/banana.png
     - lib/app/pages/home/assets/explore.png
-   
+    - lib/app/pages/welcome/assets/welcome.jpg
+    - lib/app/pages/home/assets/maca.png
+  
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
@@ -84,17 +83,15 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
- 
+
   fonts:
     - family: Poppins
       fonts:
         - asset: lib/app/pages/home/assets/fonts/Poppins-Regular.ttf
         - asset: lib/app/pages/home/assets/fonts/Poppins-Medium.ttf
-          weight: 500
         - asset: lib/app/pages/home/assets/fonts/Poppins-SemiBold.ttf
-          weight: 600
         - asset: lib/app/pages/home/assets/fonts/Poppins-Bold.ttf
-          weight: 700
+      
       
   #         style: italic
   #   - family: Trajan Pro

@@ -1,6 +1,32 @@
-2026/07/15-19:34:01.901 190c Reusing MANIFEST C:\Users\Delafor\AppData\Local\Temp\flutter_tools.8730360e\flutter_tools_chrome_device.eb6f9a10\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
-2026/07/15-19:34:01.901 190c Recovering log #71
-2026/07/15-19:34:01.901 190c Reusing old log C:\Users\Delafor\AppData\Local\Temp\flutter_tools.8730360e\flutter_tools_chrome_device.eb6f9a10\Default\EdgeCoupons/coupons_data.db/000071.log 
-2026/07/15-19:34:12.534 2ff4 Level-0 table #76: started
-2026/07/15-19:34:12.538 2ff4 Level-0 table #76: 683012 bytes OK
-2026/07/15-19:34:12.539 2ff4 Delete type=0 #71
+2026/08/05-12:33:04.669 2f64 Reusing MANIFEST C:\Users\Delafor\AppData\Local\Temp\flutter_tools.943984fd\flutter_tools_chrome_device.39ead8c9\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/08/05-12:33:04.670 2f64 Recovering log #49
+2026/08/05-12:33:04.670 2f64 Reusing old log C:\Users\Delafor\AppData\Local\Temp\flutter_tools.943984fd\flutter_tools_chrome_device.39ead8c9\Default\EdgeCoupons/coupons_data.db/000049.log 
+2026/08/05-12:33:04.670 2f64 Delete type=0 #4
+2026/08/05-12:33:04.670 2f64 Delete type=0 #7
+2026/08/05-12:33:04.671 2f64 Delete type=2 #8
+2026/08/05-12:33:04.671 2f64 Delete type=0 #10
+2026/08/05-12:33:04.671 2f64 Delete type=2 #11
+2026/08/05-12:33:04.671 2f64 Delete type=0 #13
+2026/08/05-12:33:04.671 2f64 Delete type=2 #14
+2026/08/05-12:33:04.697 2f64 Delete type=0 #16
+2026/08/05-12:33:04.741 2f64 Delete type=2 #17
+2026/08/05-12:33:04.745 2f64 Delete type=0 #19
+2026/08/05-12:33:04.761 2f64 Delete type=2 #21
+2026/08/05-12:33:04.761 2f64 Delete type=0 #23
+2026/08/05-12:33:04.761 2f64 Delete type=2 #24
+2026/08/05-12:33:04.762 2f64 Delete type=0 #26
+2026/08/05-12:33:04.762 2f64 Delete type=2 #27
+2026/08/05-12:33:04.777 2f64 Delete type=0 #29
+2026/08/05-12:33:04.777 2f64 Delete type=2 #30
+2026/08/05-12:33:04.778 2f64 Delete type=0 #32
+2026/08/05-12:33:04.778 2f64 Delete type=2 #34
+2026/08/05-12:33:04.779 2f64 Delete type=0 #36
+2026/08/05-12:33:04.779 2f64 Delete type=2 #37
+2026/08/05-12:33:04.780 2f64 Delete type=0 #39
+2026/08/05-12:33:04.780 2f64 Delete type=2 #40
+2026/08/05-12:33:04.780 2f64 Delete type=0 #42
+2026/08/05-12:33:04.780 2f64 Delete type=2 #43
+2026/08/05-12:33:04.780 2f64 Delete type=0 #45
+2026/08/05-12:33:17.508 3a70 Level-0 table #53: started
+2026/08/05-12:33:17.510 3a70 Level-0 table #53: 683332 bytes OK
+2026/08/05-12:33:17.511 3a70 Delete type=0 #49

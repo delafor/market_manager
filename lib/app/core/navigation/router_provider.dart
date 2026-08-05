@@ -14,6 +14,7 @@ final router = GoRouter(
     ),
     GoRoute(path: Kpages.home.route, builder: (context, state) => HomePage()),
     GoRoute(path: Kpages.login.route, builder: (context, state) => LoginPage()),
+
     GoRoute(
       path: Kpages.register.route,
       builder: (context, state) => RegisterPage(),

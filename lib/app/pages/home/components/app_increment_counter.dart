@@ -1,9 +1,7 @@
-
-
 import 'package:flutter/material.dart';
 
-class AddButton extends StatelessWidget {
-  const AddButton({super.key});
+class AppIncrementCounter extends StatelessWidget {
+  const AppIncrementCounter({super.key});
 
   @override
   Widget build(BuildContext context) {
