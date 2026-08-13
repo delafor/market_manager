@@ -1,31 +1,51 @@
-2026/08/04-17:29:52.123 3ef4 Reusing MANIFEST C:\Users\Delafor\AppData\Local\Temp\flutter_tools.469864f5\flutter_tools_chrome_device.e647671f\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
-2026/08/04-17:29:52.124 3ef4 Recovering log #45
-2026/08/04-17:29:52.124 3ef4 Reusing old log C:\Users\Delafor\AppData\Local\Temp\flutter_tools.469864f5\flutter_tools_chrome_device.e647671f\Default\EdgeCoupons/coupons_data.db/000045.log 
-2026/08/04-17:29:52.125 3ef4 Delete type=0 #4
-2026/08/04-17:29:52.125 3ef4 Delete type=0 #7
-2026/08/04-17:29:52.125 3ef4 Delete type=2 #8
-2026/08/04-17:29:52.125 3ef4 Delete type=0 #10
-2026/08/04-17:29:52.125 3ef4 Delete type=2 #11
-2026/08/04-17:29:52.125 3ef4 Delete type=0 #13
-2026/08/04-17:29:52.125 3ef4 Delete type=2 #14
-2026/08/04-17:29:52.151 3ef4 Delete type=0 #16
-2026/08/04-17:29:52.151 3ef4 Delete type=2 #17
-2026/08/04-17:29:52.152 3ef4 Delete type=0 #19
-2026/08/04-17:29:52.152 3ef4 Delete type=2 #21
-2026/08/04-17:29:52.152 3ef4 Delete type=0 #23
-2026/08/04-17:29:52.153 3ef4 Delete type=2 #24
-2026/08/04-17:29:52.167 3ef4 Delete type=0 #26
-2026/08/04-17:29:52.167 3ef4 Delete type=2 #27
-2026/08/04-17:29:52.167 3ef4 Delete type=0 #29
-2026/08/04-17:29:52.168 3ef4 Delete type=2 #30
-2026/08/04-17:29:52.168 3ef4 Delete type=0 #32
-2026/08/04-17:29:52.206 3ef4 Delete type=2 #34
-2026/08/04-17:29:52.207 3ef4 Delete type=0 #36
-2026/08/04-17:29:52.207 3ef4 Delete type=2 #37
-2026/08/04-17:29:52.207 3ef4 Delete type=0 #39
-2026/08/04-17:29:52.207 3ef4 Delete type=2 #40
-2026/08/04-17:29:52.208 3ef4 Delete type=0 #42
-2026/08/04-17:29:52.222 3ef4 Delete type=2 #43
-2026/08/04-17:30:02.352 3af0 Level-0 table #50: started
-2026/08/04-17:30:02.354 3af0 Level-0 table #50: 683332 bytes OK
-2026/08/04-17:30:02.355 3af0 Delete type=0 #45
+2026/08/12-11:33:35.684 13c8 Reusing MANIFEST C:\Users\Delafor\AppData\Local\Temp\flutter_tools.2f6bedb0\flutter_tools_chrome_device.73932f51\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/08/12-11:33:35.686 13c8 Recovering log #68
+2026/08/12-11:33:35.686 13c8 Reusing old log C:\Users\Delafor\AppData\Local\Temp\flutter_tools.2f6bedb0\flutter_tools_chrome_device.73932f51\Default\EdgeCoupons/coupons_data.db/000068.log 
+2026/08/12-11:33:35.688 13c8 Delete type=0 #4
+2026/08/12-11:33:35.688 13c8 Delete type=0 #7
+2026/08/12-11:33:35.688 13c8 Delete type=2 #8
+2026/08/12-11:33:35.689 13c8 Delete type=0 #10
+2026/08/12-11:33:35.689 13c8 Delete type=2 #11
+2026/08/12-11:33:35.689 13c8 Delete type=0 #13
+2026/08/12-11:33:35.689 13c8 Delete type=2 #14
+2026/08/12-11:33:35.732 13c8 Delete type=0 #16
+2026/08/12-11:33:35.793 13c8 Delete type=2 #17
+2026/08/12-11:33:35.793 13c8 Delete type=0 #19
+2026/08/12-11:33:35.794 13c8 Delete type=2 #21
+2026/08/12-11:33:35.795 13c8 Delete type=0 #23
+2026/08/12-11:33:35.796 13c8 Delete type=2 #24
+2026/08/12-11:33:35.797 13c8 Delete type=0 #26
+2026/08/12-11:33:35.799 13c8 Delete type=2 #27
+2026/08/12-11:33:35.801 13c8 Delete type=0 #29
+2026/08/12-11:33:35.801 13c8 Delete type=2 #30
+2026/08/12-11:33:35.801 13c8 Delete type=0 #32
+2026/08/12-11:33:35.803 13c8 Delete type=2 #34
+2026/08/12-11:33:35.805 13c8 Delete type=0 #36
+2026/08/12-11:33:35.856 13c8 Delete type=2 #37
+2026/08/12-11:33:35.858 13c8 Delete type=0 #39
+2026/08/12-11:33:35.858 13c8 Delete type=2 #40
+2026/08/12-11:33:35.859 13c8 Delete type=0 #42
+2026/08/12-11:33:35.859 13c8 Delete type=2 #43
+2026/08/12-11:33:35.859 13c8 Delete type=0 #45
+2026/08/12-11:33:35.859 13c8 Delete type=2 #47
+2026/08/12-11:33:35.860 13c8 Delete type=0 #49
+2026/08/12-11:33:35.899 13c8 Delete type=2 #50
+2026/08/12-11:33:35.901 13c8 Delete type=0 #52
+2026/08/12-11:33:35.903 13c8 Delete type=2 #53
+2026/08/12-11:33:35.905 13c8 Delete type=0 #55
+2026/08/12-11:33:35.905 13c8 Delete type=2 #56
+2026/08/12-11:33:35.938 13c8 Delete type=0 #58
+2026/08/12-11:33:35.939 13c8 Delete type=0 #62
+2026/08/12-11:33:35.939 13c8 Delete type=0 #65
+2026/08/12-11:33:45.162 578 Level-0 table #72: started
+2026/08/12-11:33:45.168 578 Level-0 table #72: 683444 bytes OK
+2026/08/12-11:33:45.170 578 Delete type=0 #68
+2026/08/12-11:33:45.171 32f8 Compacting 4@0 + 1@1 files
+2026/08/12-11:33:45.177 32f8 Generated table #73@0: 4 keys, 683351 bytes
+2026/08/12-11:33:45.177 32f8 Compacted 4@0 + 1@1 files => 683351 bytes
+2026/08/12-11:33:45.179 32f8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/12-11:33:45.179 32f8 Delete type=2 #60
+2026/08/12-11:33:45.179 32f8 Delete type=2 #63
+2026/08/12-11:33:45.179 32f8 Delete type=2 #66
+2026/08/12-11:33:45.180 32f8 Delete type=2 #69
+2026/08/12-11:33:45.180 32f8 Delete type=2 #72

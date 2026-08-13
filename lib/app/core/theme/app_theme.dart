@@ -106,6 +106,7 @@ const ButtonStyle buttonsLarge = ButtonStyle(
   backgroundColor: WidgetStatePropertyAll(Color(0xff53b175)),
   foregroundColor: WidgetStatePropertyAll(Colors.white),
   elevation: WidgetStatePropertyAll(0),
+  
   padding: WidgetStatePropertyAll(
     EdgeInsets.symmetric(horizontal: 125, vertical: 25),
   ),
