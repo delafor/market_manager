@@ -70,6 +70,7 @@ flutter:
     - lib/app/pages/home/assets/explore.png
     - lib/app/pages/welcome/assets/welcome.jpg
     - lib/app/pages/home/assets/maca.png
+    - lib/app/assets/AppIcon.jpg
   
 
   # An image asset can refer to one or more resolution-specific "variants", see

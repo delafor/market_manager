@@ -37,7 +37,9 @@ class _AppAuthTextFieldState extends State<AppAuthTextField> {
             ? IconButton(
                 padding: EdgeInsets.zero,
 
-                icon: Icon(obscure ? Icons.visibility_off : Icons.visibility),
+                icon: Icon(
+                  obscure ? Icons.visibility_off_outlined : Icons.visibility,
+                ),
                 onPressed: () {
                   setState(() {
                     obscure = !obscure;
