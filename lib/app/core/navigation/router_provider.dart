@@ -6,7 +6,7 @@ import 'package:market_manager/app/pages/register/register_page.dart';
 import 'package:market_manager/app/pages/welcome/welcome_page.dart';
 
 final router = GoRouter(
-  initialLocation: Kpages.login.route,
+  initialLocation: Kpages.register.route,
   routes: [
     GoRoute(
       path: Kpages.welcome.route,

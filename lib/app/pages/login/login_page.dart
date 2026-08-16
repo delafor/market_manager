@@ -1,5 +1,7 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
+import 'package:market_manager/app/core/constants/constants.dart';
 import 'package:market_manager/app/core/theme/app_theme.dart';
 import 'package:market_manager/app/shared/app_large_button.dart';
 import 'package:market_manager/app/shared/widgets/app_textfield.dart';
@@ -28,7 +30,9 @@ class LoginPage extends StatelessWidget {
               const SizedBox(height: 8),
               Text(
                 'Enter your email and password',
-                style: Theme.of(context).textTheme.bodyLarge,
+                style: Theme.of(
+                  context,
+                ).textTheme.bodyMedium?.copyWith(fontWeight: FontWeight.w500),
               ),
 
               const SizedBox(height: 40),
@@ -80,7 +84,10 @@ class LoginPage extends StatelessWidget {
                           fontWeight: FontWeight.bold,
                           color: Color(0xff53B175),
                         ),
-                        recognizer: TapGestureRecognizer()..onTap = () {},
+                        recognizer: TapGestureRecognizer()
+                          ..onTap = () {
+                            context.go(Kpages.register.route);
+                          },
                       ),
                     ],
                   ),

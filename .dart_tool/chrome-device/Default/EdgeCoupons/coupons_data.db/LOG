@@ -1,59 +1,57 @@
-2026/08/13-20:19:44.056 1b40 Reusing MANIFEST C:\Users\Delafor\AppData\Local\Temp\flutter_tools.558bb857\flutter_tools_chrome_device.9120f7fa\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
-2026/08/13-20:19:44.058 1b40 Recovering log #81
-2026/08/13-20:19:44.058 1b40 Reusing old log C:\Users\Delafor\AppData\Local\Temp\flutter_tools.558bb857\flutter_tools_chrome_device.9120f7fa\Default\EdgeCoupons/coupons_data.db/000081.log 
-2026/08/13-20:19:44.059 1b40 Delete type=0 #4
-2026/08/13-20:19:44.059 1b40 Delete type=0 #7
-2026/08/13-20:19:44.059 1b40 Delete type=2 #8
-2026/08/13-20:19:44.059 1b40 Delete type=0 #10
-2026/08/13-20:19:44.059 1b40 Delete type=2 #11
-2026/08/13-20:19:44.060 1b40 Delete type=0 #13
-2026/08/13-20:19:44.060 1b40 Delete type=2 #14
-2026/08/13-20:19:44.102 1b40 Delete type=0 #16
-2026/08/13-20:19:44.118 1b40 Delete type=2 #17
-2026/08/13-20:19:44.134 1b40 Delete type=0 #19
-2026/08/13-20:19:44.135 1b40 Delete type=2 #21
-2026/08/13-20:19:44.135 1b40 Delete type=0 #23
-2026/08/13-20:19:44.136 1b40 Delete type=2 #24
-2026/08/13-20:19:44.136 1b40 Delete type=0 #26
-2026/08/13-20:19:44.137 1b40 Delete type=2 #27
-2026/08/13-20:19:44.137 1b40 Delete type=0 #29
-2026/08/13-20:19:44.138 1b40 Delete type=2 #30
-2026/08/13-20:19:44.138 1b40 Delete type=0 #32
-2026/08/13-20:19:44.138 1b40 Delete type=2 #34
-2026/08/13-20:19:44.138 1b40 Delete type=0 #36
-2026/08/13-20:19:44.138 1b40 Delete type=2 #37
-2026/08/13-20:19:44.138 1b40 Delete type=0 #39
-2026/08/13-20:19:44.165 1b40 Delete type=2 #40
-2026/08/13-20:19:44.166 1b40 Delete type=0 #42
-2026/08/13-20:19:44.166 1b40 Delete type=2 #43
-2026/08/13-20:19:44.205 1b40 Delete type=0 #45
-2026/08/13-20:19:44.205 1b40 Delete type=2 #47
-2026/08/13-20:19:44.206 1b40 Delete type=0 #49
-2026/08/13-20:19:44.206 1b40 Delete type=2 #50
-2026/08/13-20:19:44.206 1b40 Delete type=0 #52
-2026/08/13-20:19:44.206 1b40 Delete type=2 #53
-2026/08/13-20:19:44.206 1b40 Delete type=0 #55
-2026/08/13-20:19:44.206 1b40 Delete type=2 #56
-2026/08/13-20:19:44.206 1b40 Delete type=0 #58
-2026/08/13-20:19:44.206 1b40 Delete type=2 #60
-2026/08/13-20:19:44.207 1b40 Delete type=0 #62
-2026/08/13-20:19:44.207 1b40 Delete type=2 #63
-2026/08/13-20:19:44.207 1b40 Delete type=0 #65
-2026/08/13-20:19:44.208 1b40 Delete type=2 #66
-2026/08/13-20:19:44.208 1b40 Delete type=0 #68
-2026/08/13-20:19:44.208 1b40 Delete type=2 #69
-2026/08/13-20:19:44.208 1b40 Delete type=0 #71
-2026/08/13-20:19:44.209 1b40 Delete type=0 #75
-2026/08/13-20:19:44.209 1b40 Delete type=0 #78
-2026/08/13-20:19:55.243 3d9c Level-0 table #85: started
-2026/08/13-20:19:55.245 3d9c Level-0 table #85: 683444 bytes OK
-2026/08/13-20:19:55.246 3d9c Delete type=0 #81
-2026/08/13-20:19:55.246 44ec Compacting 4@0 + 1@1 files
-2026/08/13-20:19:55.250 44ec Generated table #86@0: 4 keys, 683351 bytes
-2026/08/13-20:19:55.250 44ec Compacted 4@0 + 1@1 files => 683351 bytes
-2026/08/13-20:19:55.250 44ec compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/08/13-20:19:55.250 44ec Delete type=2 #73
-2026/08/13-20:19:55.250 44ec Delete type=2 #76
-2026/08/13-20:19:55.250 44ec Delete type=2 #79
-2026/08/13-20:19:55.250 44ec Delete type=2 #82
-2026/08/13-20:19:55.250 44ec Delete type=2 #85
+2026/08/16-16:41:09.108 19cc Reusing MANIFEST C:\Users\Delafor\AppData\Local\Temp\flutter_tools.fa99c22b\flutter_tools_chrome_device.941ca502\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/08/16-16:41:09.118 19cc Recovering log #91
+2026/08/16-16:41:09.120 19cc Reusing old log C:\Users\Delafor\AppData\Local\Temp\flutter_tools.fa99c22b\flutter_tools_chrome_device.941ca502\Default\EdgeCoupons/coupons_data.db/000091.log 
+2026/08/16-16:41:09.125 19cc Delete type=0 #4
+2026/08/16-16:41:09.125 19cc Delete type=0 #7
+2026/08/16-16:41:09.125 19cc Delete type=2 #8
+2026/08/16-16:41:09.125 19cc Delete type=0 #10
+2026/08/16-16:41:09.125 19cc Delete type=2 #11
+2026/08/16-16:41:09.125 19cc Delete type=0 #13
+2026/08/16-16:41:09.125 19cc Delete type=2 #14
+2026/08/16-16:41:09.136 19cc Delete type=0 #16
+2026/08/16-16:41:09.138 19cc Delete type=2 #17
+2026/08/16-16:41:09.139 19cc Delete type=0 #19
+2026/08/16-16:41:09.139 19cc Delete type=2 #21
+2026/08/16-16:41:09.139 19cc Delete type=0 #23
+2026/08/16-16:41:09.139 19cc Delete type=2 #24
+2026/08/16-16:41:09.139 19cc Delete type=0 #26
+2026/08/16-16:41:09.140 19cc Delete type=2 #27
+2026/08/16-16:41:09.140 19cc Delete type=0 #29
+2026/08/16-16:41:09.144 19cc Delete type=2 #30
+2026/08/16-16:41:09.145 19cc Delete type=0 #32
+2026/08/16-16:41:09.147 19cc Delete type=2 #34
+2026/08/16-16:41:09.147 19cc Delete type=0 #36
+2026/08/16-16:41:09.147 19cc Delete type=2 #37
+2026/08/16-16:41:09.148 19cc Delete type=0 #39
+2026/08/16-16:41:09.148 19cc Delete type=2 #40
+2026/08/16-16:41:09.166 19cc Delete type=0 #42
+2026/08/16-16:41:09.167 19cc Delete type=2 #43
+2026/08/16-16:41:09.182 19cc Delete type=0 #45
+2026/08/16-16:41:09.198 19cc Delete type=2 #47
+2026/08/16-16:41:09.199 19cc Delete type=0 #49
+2026/08/16-16:41:09.199 19cc Delete type=2 #50
+2026/08/16-16:41:09.199 19cc Delete type=0 #52
+2026/08/16-16:41:09.200 19cc Delete type=2 #53
+2026/08/16-16:41:09.200 19cc Delete type=0 #55
+2026/08/16-16:41:09.200 19cc Delete type=2 #56
+2026/08/16-16:41:09.200 19cc Delete type=0 #58
+2026/08/16-16:41:09.200 19cc Delete type=2 #60
+2026/08/16-16:41:09.200 19cc Delete type=0 #62
+2026/08/16-16:41:09.201 19cc Delete type=2 #63
+2026/08/16-16:41:09.202 19cc Delete type=0 #65
+2026/08/16-16:41:09.203 19cc Delete type=2 #66
+2026/08/16-16:41:09.203 19cc Delete type=0 #68
+2026/08/16-16:41:09.204 19cc Delete type=2 #69
+2026/08/16-16:41:09.204 19cc Delete type=0 #71
+2026/08/16-16:41:09.204 19cc Delete type=2 #73
+2026/08/16-16:41:09.205 19cc Delete type=0 #75
+2026/08/16-16:41:09.205 19cc Delete type=2 #76
+2026/08/16-16:41:09.205 19cc Delete type=0 #78
+2026/08/16-16:41:09.205 19cc Delete type=2 #79
+2026/08/16-16:41:09.205 19cc Delete type=0 #81
+2026/08/16-16:41:09.205 19cc Delete type=2 #82
+2026/08/16-16:41:09.205 19cc Delete type=0 #84
+2026/08/16-16:41:09.205 19cc Delete type=0 #88
+2026/08/16-16:41:20.803 8f8 Level-0 table #95: started
+2026/08/16-16:41:20.805 8f8 Level-0 table #95: 683444 bytes OK
+2026/08/16-16:41:20.806 8f8 Delete type=0 #91
